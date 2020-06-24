@@ -9,6 +9,13 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  }
+	"expirationTime": 091919999,
+	"token": "123abc...",
+	"user": {
+		"id": 5,
+		"firstName": "John",
+		"lastName": "Doe",
+		"emailAddress": "test@test.com"
+	}
+}
 }
