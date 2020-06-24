@@ -13,16 +13,14 @@
             "title": "Post 3"
         }
     ],
-    "comments": [
+    "remote-support-types": [
         {
             "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "name": "TeamViewer"
         },
         {
             "id": 2,
-            "body": "some comment",
-            "postId": 1
+            "name": "AnyDesk"
         }
     ],
     "profile": {
