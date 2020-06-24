@@ -1,21 +1,38 @@
 {
-  "posts": [
-    { "id": 1, "Titel": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-	"expirationTime": 091919999,
-	"token": "123abc...",
-	"user": {
-		"id": 5,
-		"firstName": "John",
-		"lastName": "Doe",
-		"emailAddress": "test@test.com"
-	}
-}
+    "posts": [
+        {
+            "id": 1,
+            "Titel": "Post 1"
+        },
+        {
+            "id": 2,
+            "title": "Post 2"
+        },
+        {
+            "id": 3,
+            "title": "Post 3"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "expirationTime": 91919999,
+        "token": "123abc...",
+        "user": {
+            "id": 5,
+            "firstName": "John",
+            "lastName": "Doe",
+            "emailAddress": "test@test.com"
+        }
+    }
 }
